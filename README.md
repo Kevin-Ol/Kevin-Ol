@@ -37,10 +37,10 @@ Atualmente moro em Itabaiana/SE-BR.
 <br>
 <hr>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Ol&layout=compact&theme=graywhite&title_color=268bd2" alt="Linguagens mais usadas Kevin Oliveira" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-ol&layout=compact" alt="Linguagens mais usadas Kevin Oliveira" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kevin-Ol&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="GitHub stats Kevin Oliveira" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-ol&show_icons=true&theme=radical" alt="GitHub stats Kevin Oliveira" />
 </p>
 <hr>
 <h4>Linguagens e ferramentas:</h4>
