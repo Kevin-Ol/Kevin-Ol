@@ -19,8 +19,19 @@ Atualmente moro em Itabaiana/SE-BR.
 <h4>Meus interesses pessoais: </h4>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622839571924.png" width="400px" />
 <ul>
-  <li>Estou finalizando o bloco de fundamentos na <b>Trybe</b> onde inicei os estudos em <b>HTML, CSS e Javascript</b>;</li>
-  <li>Logo iniciarei o bloco de front-end, onde irei estudar <b>React, Redux e Metodologias ágeis</b>;</li>
+  <li>Acabei de finalizar o bloco de front-end, onde adquiri conhecimentos em:
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>ReactJS</li>
+      <li>Redux</li>
+      <li>Context API</li>
+      <li>Jest</li>
+      <li>RTL</li>
+    </ul>
+  </li>
+  <li>Estou estudando back-end, onde irei estudar SQL, MongoDB e NodeJS</li>
   <li>Meus hobbies são:
     <ul>
     <li>Ouvir música;</li>
@@ -45,11 +56,14 @@ Atualmente moro em Itabaiana/SE-BR.
 <hr>
 <h4>Linguagens e ferramentas:</h4>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="git" width="40" height="40"/> 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kevin-Ol" alt="Visitas de perfil Kevin Oliveira" /> </p>
 <p>
