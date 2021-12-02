@@ -10,7 +10,7 @@ Olá, me chamo <b>Kevin Mendonça Oliveira</b>.
 Sou formado em Engenharia Civil pela Universidade Federal de Sergipe.
 </p>
 <p align="left" >
-Me interessei pela área de programação e estou me capacitando para me tornar um <b>Deselvolvedor Full-Stack</b> pela escola de programação @betrybe.
+Me interessei pela área de programação e estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack</b> pela escola de programação @betrybe.
 </p>
 <p align="left" >
 Atualmente moro em Itabaiana/SE-BR.
