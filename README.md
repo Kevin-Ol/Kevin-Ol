@@ -37,6 +37,9 @@ Atualmente moro em Itabaiana/SE-BR.
       <li>MongoDB</li>
       <li>NodeJS</li>
       <li>Mocha, Chain, Sinon</li>
+      <li>JWT</li>
+      <li>Multer</li>
+      <li>Sequelize</li>
     </ul>
   </li>
   <li>Meus hobbies são:
